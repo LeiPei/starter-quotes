@@ -4,4 +4,8 @@
 **Lei (FIRST MATE)**
 
 change log (newest last)
-* xxx
+
+* author's quote added
+
+* added a trump pic by Lei
+
